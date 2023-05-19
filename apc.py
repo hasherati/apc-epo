@@ -15,7 +15,7 @@ import time
 import subprocess
 
 #
-# The relay that triggers the Emergency Power Off in on GPIO pin 21
+# The relay that triggers the Emergency Power Off is on GPIO pin 21
 #
 relay = 21
 #
